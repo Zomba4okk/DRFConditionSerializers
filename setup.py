@@ -27,8 +27,9 @@ def get_version(package):
 
 setup(
     name='drf-condition-serializers',
-    version='0.1',
+    version='0.1.1',
     url='https://github.com/Zomba4okk/DRFConditionSerializers',
+    download_url='https://github.com/Zomba4okk/DRFConditionSerializers/archive/v_01.tar.gz',
     license='MIT',
     description='',
     long_description=read('README.md'),
