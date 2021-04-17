@@ -28,9 +28,9 @@ def get_version(package):
 setup(
     name='drf-condition-serializers',
     version='0.1',
-    url='https://github.com/Zomba4okk/drf-condition-serializers',
+    url='https://github.com/Zomba4okk/DRFConditionSerializers',
     license='MIT',
-    description='???',
+    description='',
     long_description=read('README.md'),
     author='Anton Zagrebancev',
     author_email='anton.zagrebancev@gmail.com',
